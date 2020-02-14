@@ -1,0 +1,8 @@
+#array = [1, 1, 2, 3, 5, 8, 13, 20, 34, 50, 89, 90, 101]
+#for elem in array:
+ #   if elem % 4 == 0 and elem > 20:
+  #      print(elem)
+   # else:
+    #    print("такого числа нет")
+
+#print(array * 1040)
